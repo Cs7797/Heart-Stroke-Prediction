@@ -17,7 +17,6 @@ This project takes several patient attributes as input and uses a trained KNN cl
 
 The model input is processed using the same preprocessing pipeline used during model training, including feature scaling and one-hot encoded categorical variables.
 
-> **Disclaimer:** This project is intended for educational and demonstration purposes only. It is not a medical diagnostic tool and should not be used as a substitute for professional medical advice.
 
 ---
 ## Screenshots
